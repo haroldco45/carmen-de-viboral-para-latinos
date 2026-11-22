@@ -1,5 +1,657 @@
 {
-  "revisado": null,
-  "actualizado": null,
-  "noticias": []
+  "revisado": "2026-11-22T14:22:29.281Z",
+  "actualizado": "2026-11-22T14:22:29.281Z",
+  "noticias": [
+    {
+      "titulo": "Rionegro está en alerta hospitalaria por la alta ocupación de las urgencias en las IPS",
+      "medio": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5TSEhFdEZqZDhVX2Z6MnVnTmd4blVySW1KdXNfbjF5XzZQSkE0WGtSQmpwV1o1QWlvbUw4STN2N2V5bXpKNUZ4a1NUbmFqMXRVYVBDdml1dnhHOVN6aVIyY1diazB3dkxEeHNqRmFSUWp6aXduN2N2T1hNVmpqRXdYaEpob09OcUV1dG9ybDU4UEIwYTF0ZUZQc2IxVU9hQzNvY0hiUmtOcU5zWEpBRjV3WVNJNWtZUW45VTlB0gHSAUFVX3lxTE96ZWx6b291dTZpcEx5M3FzQWVpcFJvaUpGbEtERTZhekx0ZG1zS1pZZHZXaTA3ai1YRDBQazRJSE45WGNzMFVpblc0RHhmemJHTHRzOUo0UzdNMm5CcTZacTRtcTNocUltVFhjS2Zib0xiV3ZFRnJGd1dPUmpWNXV2alNldGJsT1EybERlODQ3XzVSTDEwOEo1azQtOXFwb0QxSll2ZnRIV1Z2OUd5YkQxWGVKbHlMWmFYUl9PMk0tWDJ2R2RtbmJ5Ql9iTzlDYzhIUQ?oc=5",
+      "fecha": "2026-11-22T13:05:15.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "378 deportistas recibieron incentivos económicos por sus logros deportivos en Rionegro",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzZiMG1ybVdfOG1aUWlwSmJyZ2tueXZpa1MtcjZ2TTNJOUJ2eXBBUzFoWUphNHZuTkRVa2VTZUdJMTFoR3VuQW5ZZDdKTG1TRTc0MmFrYnNwYWMxTS1CNk03dEZRaUNPdDZmb0xxRTB3aHA4YUZ3VnRnX00ybHhuQ29UeUhhRkk0ei1ucEozZlVTS196WlhMME52SnF4cDVpMU90b3FIZG96MWNYaDZmT0lrU2dlSThPQWpodGZqbUtYdjdWSENiaA?oc=5",
+      "fecha": "2026-11-21T22:10:01.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "La policía incautó 174 kg de cocaína en ocho maletas en el aeropuerto de Rionegro, Antioquia",
+      "medio": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2VLRk1VT1Raa2JmOGFVVFYzUDBUR18wNERscWNVWjZGWWxwVXByVEtibGFIYjBWNWxqYmREamcyenFHMTIwazJZOG03WjlvdndURUpVMWlKUUJyQWI3RFNsR3NYSzFOSlF1bkpzSmtMZGlJakJXR0lIRmFab2ViNkxxU2xOd1NzdkNCOE9fdUhXc2ZSRU5xUmxJRTFzdmRSSEh1ajlpaUNZeDN0MWc1dUZQUVBtTkxBamFJQjZrRkc3LWh50gHYAUFVX3lxTE5RUE5nanEwYi1jZ29MXzhjSVBseTRhNGx1ZW1GcmlhY29iVU5VU2J4cnFOcS1CRUYzN09rYmx2d014SVdZNEo4TmRXbXdpQ3g3aExONG10aWE4VVVoeXBKRlFMbDZpRGxzWkVSYW5PNUpwMGdKYmdPaHE3VVNXeUNpUUxuNHJ4WUU3elU0LVVyVnlRekpDdXRyU2VSUlhDZzczd0N0RXZpeElib1BIaUdqSmtBdHRwZVlVbzZxTTNmcXpybVhOR0NXSUVzN040dE1Da1JUNzBZdA?oc=5",
+      "fecha": "2026-11-21T19:39:31.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Feria de inclusión financiera promueve la economía popular y solidaria en el Oriente antioqueño",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTXNmTDVNMENqM0VOaC1FNVR5emYtZGY4TjJMRk9YeTFWVGtHcmctWXAtZ1FwdFNGd2prNk1DODVNbUFkNDJsbUYtanNCd0xuaE1ZejJYWmtWeTVkNnZZQmJZWDhtRnJkbEEwV0lCRkdJc011SWRIYl9hemtfOUc4WDFINzNEb0FhYUlCZGtfWlp5U3RDbWs1ei12WXZTaFlXSW5SSmdBY1Fady04WHlub19STkM0QjhTWkFBa1JrMmJCVTlpbkkyMFNoM3RzUWlxaUFDUTdUQWxYOWh2NHBmT1JNbE9naW93azNOaWF5dFUtdUxKcjNEV3JXMA?oc=5",
+      "fecha": "2026-11-21T19:23:02.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro fue el epicentro mundial de la floricultura: SIFLOR 2026 cerró con éxito y enfoque en Inteligencia Artificial y sostenibilidad",
+      "medio": "Noticias AMPM",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTnVkM19lY00wWVBPUmtGNzZvUUR5WXVvNWloaU1xUFR3T3hPb2NrbGVONEF0NWpwYW9RMzJTMVBjOExSNWNYZHZHQjF2Xy1VYTJUc3JVcUcxVHV2Y0JLZmFLVXhDVFN2M3hoLVVoLV9RWVBTNmh5RnpaSjFfLTFnbWs3R2xWWEN2Y1paOHZaQjRCaFBJM05od19nYXBrdkRERXNFcVFDQkFFdUF1ajZFUXE3OXhpY0Vmd2x2SDVQdGk0b0Q0WWhWel9QZW55bVhTU09QVDZPVGdrdFZGRHdzWHVJdS1hUEU2UDd5MDFmckRvQQ?oc=5",
+      "fecha": "2026-11-21T18:43:46.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "288 familias de Rionegro recibieron subsidios de Mi Casa Antioquia Ya",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YVkpFN3QyR1dMQ2pMMll3QUdldzdsRjdlV0NVb0FheFpaTy1pencwVHZ5bU1yTG1FTHNwdUtLeUtTNldaVUdHYm5uQ2FtYkRyUEgtNlk1MDV1OE03bWlTa0VLdE9rak1uZHc0alZBMDl3dS0xZGJFVktWLVI?oc=5",
+      "fecha": "2026-11-21T18:23:20.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Alerta hospitalaria en Rionegro: ¿cuándo sí ir a urgencias y qué hacer si no es grave?",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRZFp2TmU5T0YyNFRmRjZodnZPS3gtQ1kxTzVVRkd6c29vNk9EZnk5UlBDNGtoamtfSGRyLUx2WHZPSDh5QkJVUGlfTDN6UDdhOVVnS3N2dndKWDkzaGFxOGdOT1p4OFF2b0tGdDlRU0RVMXlhTlRhOV9R?oc=5",
+      "fecha": "2026-11-20T23:31:47.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Laboratorio de Innovación Juvenil impulsa ideas y proyectos de jóvenes en Rionegro",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkc5WENDLWxINnlBTDU4RU1EdHpKUFBRdUhGbENyR0FvMWw2ZkRlT2N1ZWNzd1pDMkRKdnVSc0NfMkxNU2phR2pHcUZWN1pzTEJiVTBwZTlTVHZfOGZKaGoxS09LWEluRXBWaDluRTVWdHNMRFlKWVFRYXU4LUZ3cVY1c1ZkU0JndDNFMXQ0eVUtU01kQ1dpdE8zcjhqMTFKdkNKdzN5WEM3Rk9tbG1ObVNLZllRSW1yZmM4SHEtU2c?oc=5",
+      "fecha": "2026-11-20T23:26:02.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "En Rionegro, conmemoraron a las víctimas de siniestros viales con un llamado a proteger la vida",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlpqQ2ZTb0lDMzNTa2t1Zm5lcXJHUThld3k1X0V2SjgtbllJa2pXdHdyMVFHeDdfSVEyaGxMbkF6S2tDRDFOcEpWN2JfT3MzWFdDVHl3c3RsaHE2Tnp2ZWdNRzNqZGxrbERhN2dWWm15Mkl0a2swcVNmZnZ1Y1FWWXFqQ2lFemJsQzlpUjRaLWhaQnkyY2pWVkpocGwwSmNoUU5lWHFKYkdqTmxzWjd1aC0wWlUzOVUzcmNnYjFVRFFLOGJrdXB5b3ZlMjF5OGVh?oc=5",
+      "fecha": "2026-11-20T23:26:02.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Serenata llega a este municipio del Oriente antioqueño: conozca las agrupaciones que participarán",
+      "medio": "Teleantioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRG9DbTVFWDRIclpKaktSS243R0MxZDF6TWtvU0F0b0pYNmg3RW9GUEZITGYydzJ1RXZLU183MU1xNDB2Z3BqNGhqS2hsNVZUTmwzMWt2YjdKLVhLQXlTaDM1UWxUNll4cFBVVi0xR1M1dnE1Yk5OaHY0ZVpVV3ByVmlXb0dwNTRqZEtZeW84MkZnbVktTF96MTR5bmlOTDhENFF2UlVMVjBFTEdROTZmQzIwd2I2Wnp0UWZXd2dUNG5PSXpmYml5Z0hvbmlMRGtCLXpyNG5CQUNNS3pOR19LLTNR0gHuAUFVX3lxTE9pN1ZZRWZ1a0k4dmRfMnU3V1J1aVp2dGJqc05LRnU2dmJWSjZKMDFwX3dZMW1NMlBtZmZPdENrZDZ1S2FqeDVacU1lcl9YbjhEcEF2YWNwX2tuQmlGS0lRYU1xRnlZaEg5akt0eEVkRkJjS0JlV0dyYlkwZUI0M2FMODNhVWpUazJqbXhmZWpBZlB0dTJyb2J4bTU1YjBjZDVzcktOaHhQdzJVYVMwSjAwNUc0cHA0TjB4V3ZEY1VtQ0ZWTElzaURTWUVFNkxaV0VzSG1tb3Z6cGE3RUJTbWs1c2JqT3NnSGpDN3NKemc?oc=5",
+      "fecha": "2026-11-20T22:14:17.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro cuenta con el mejor colegio oficial de Antioquia",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnA5WFFtLV93Mi1jd0dMNXRaYldicWI1M1pYRU1ITjlUck8tN2ZKNEJaUzhNb0JlcU1XMzlRcGYxR1hDUC14WWZsR3Zob3c4N19TX1NGQjlGNEJpYWlLMDZOeF85ZWtyTmx4V0pRUUx3ZUliVEZRam9jMjl4SGhrWVlHeV9hTGozM2tBeW1RVXhxdVJoeFBGdElzem1HLWZFbW53Yw?oc=5",
+      "fecha": "2026-11-20T21:47:40.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Científica de Rionegro lidera creación de biomateriales con cáscara de huevo para regenerar tejidos",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPQkV0V283TkZ0Vzl4Ykc1eW11Zng4VVRiWG1QV2wtd3podlg3TUczUkZQNWJGTDh5SzhTOEJUY3BTU0h0U21kZ19nMWxEZW9lVkVPMXluT083TTIyeWZfOHBIQjVyTy11Q21ZUUsxYlE2VXZnY2Rsc0tB?oc=5",
+      "fecha": "2026-11-20T21:07:31.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Riesgo extremo en seis municipios del Oriente antioqueño: la Defensoría pide reforzar la prevención ante la guerra entre el Clan del Golfo y El Mesa",
+      "medio": "IFM Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjdpeFl0YzlsLWlwWjE5cldPOHh2ZC1ZbWFvdTk4OW41QTUyUFFLbzAtUElkc2FyLWRKTjRFMl8xbDJ1TksyQkVkaVBVZVN5NFdjSmU2TjFlaVBMczVRVGx1V0tub2VRbHJ5NFpfbEN0VkxkZnUwWkRmdXBFQzFlZ3B6YWV4UXFmLUFNMVlxeXlQTE5tNk5GWG5RRG5tM2ktb21qSEtPdW1walJHYUFHZkl4TUpsZw?oc=5",
+      "fecha": "2026-11-20T19:23:35.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral retoma racionamientos de agua: habrá cortes diarios de hasta cuatro horas por sectores",
+      "medio": "DiariOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPem9pSFpKM2dyVGtDTUlDakhqOFZzLTFhQ1hrcGNTa0x1TnlYZzNPWTBRQXdtZXl2cUZOclZRVHpydW93bEg2bU56TzV6aTFwQm5WWVRzMko5WU4yQVhhSnFRZzNGY3pKaGQtR0RDT3JGa2xqOENhN0hKalJyOVNBd2NwREthRmc?oc=5",
+      "fecha": "2026-11-19T23:16:33.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Disputa entre grupos armados pone en riesgo a comunidades de seis municipios del Oriente antioqueño",
+      "medio": "Defensoría del Pueblo de Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUp6NFA3bkVCck1nTGlHMnNuMFdCaWVOZnFvN014eVgzYzgxaU9WRVFwTW5BSXdUZGNIN2JHZUdTRDFhM2lrN0lUMDMxVUd1OTRxVWY2elZnZGdRajBpSkVMSE1KeE83V3VoWS0yR09Zb2RuOC1PZnJtNkx4S0kwWlNRaXVKbnVPN3lRUEVqc0EtZEptTS1LVnJIRXRGMHlIRWFVckFPRzk0VlUzTVZTQ2dwaGtXUjF1a0dIR3k2TXJHQ0lkTjlubXA5bXNHdUJ4OUh3UDlQWlU?oc=5",
+      "fecha": "2026-11-19T11:17:22.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Vuelven los cortes de agua en El Carmen de Viboral: serán diarios y por sectores",
+      "medio": "La FM",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU01EN3E4N1JQd19neVZRTGlIU0Jyc3V2emhBU0Nhb3Zpb2hBQ291ZEpPTVJVSzRXV1dIQS0yVGZaN1Yydm5YcmNDdTE0U2pJNEY4MWlUTlJaX21HMmc1elUwRDVWM3VtUk4xbm1CclVaSkRVRHVxU3FEcUsyNUlWaFJXWUloMUtTS245b2hpZ210Y3M5RXJDTUF6NU9FRUcxZnJGZ1NB0gGmAUFVX3lxTE9MVVJVVU5FcVM1RXhTVjdJUjVkQTlmckJySEk5ci1uYnZyejNoZ2lKUVl6aE9HS1hfcnZkOWZWRDBaVEFJNDJpNUs0dWZ1OGFCTmtHUXoyS2JIWmdHTE5FN25vb0dsalZYNXpNa2FuOWZjNk9XV294YjlPT2p1eEZfSHZSNUNsUHQ3OE9mWV9HSW9nN0dfNDcxdjk3SFFMWS11UkNzLVE?oc=5",
+      "fecha": "2026-11-19T09:51:15.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Gobernador explicó los beneficios de la creación del Área Metropolitana del Valle de San Nicolás en el Carmen de Viboral",
+      "medio": "Gobernación de Antioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYWtCdV9kMTBfUmV4WVFycHl3YmFZbTBRSUw1Z2hoZHVxb1UxcEttSVl4clROTlloUmRvZC1rU2htUDZqSld4TU1kN1U2S2QtTXVBWTcyV3pfa2RUN0tyZ1dCU1Vkcmp2MnI5azZBaGl2NUw0SEFsN3JXV1pzYWh0d3lMN2ZqTEEtM1VoTF9YTE5UcUxGNHVxVnZhelQ1T1N3U0xad3lSS0kwVjhYMjU3a29IY0ZZVTRNdDFWY2hSWFg0cHVvZVBIcVpCTl81M0hicnRxbUpWNk05NU5Bd1JwWjhRUDlzTy1MRzd6TkkzWlhtakJRWVZ4WExsczZWSS1RcHFFREN3?oc=5",
+      "fecha": "2026-11-19T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "La violencia no cesa en el Oriente antioqueño: nuevo ataque sicarial deja un hombre muerto en Sonsón",
+      "medio": "Análisis Urbano",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV0NKV2h1cWozdGF6T2dSU3FCZDc0WVhQUFF6QUVfY0FRUXBlQTBYaGRicUxWVFpBZUhZS0tGajNiazE3T045Y0tpZy0yNlFTeHBMRFlyQUZkOEdyYlF3TjVxdUxpcWhGU00xVFFWdkoxUUtIQVU3Q3AxRnBvU1VHaG5mb2o2b3k4UDNRSWdPMlVrMkxhV1RQNUNMcUxmeVZiQ09uU3NEdk1NUHVIem0zUWNRakM4V25FQTZTUXNWSDJUaFZKQWdWemYtWURDdEk?oc=5",
+      "fecha": "2026-11-18T23:39:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral tendrá racionamiento de agua por El Niño: estos son los horarios y sectores",
+      "medio": "Minuto30",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1N0d3lWZHlVSkp5ajNfMTBOalp3eTZyX1Fhb0lnUGxKejVzaTlTa09zOUZ4NUJ2bjNQZTIyM0dxRWZLT2tSLWVFNG5KaDJudkxld0dyVDNBR0VwY25NcTJxdW5fUTdseXB2UG1XdzVLb2hRbkNzWW5sRndhNWpiNWZzbXl4aExnZl96c2wyRWFLRmdGeHJpdlhuZHgzMXJ6dWxmMnoxbWhmOUFZR3NLRHV0R1FxSUttdmtIYkpvMFhseDJaWlNpVQ?oc=5",
+      "fecha": "2026-11-18T22:30:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Vuelven racionamientos de agua a El Carmen de Viboral: serán por cuatro horas entre tarde y noche",
+      "medio": "Blu Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUDA4SXBvLTFRbjhFOW5fbXItTUNOUm84WVRxbzRQdnlrOUoxX2NuOENRRHNBNTljbE1jYjdGMUdtakNVZV9iRHkybUkwU2UzWm1NQXFSTVB1dVh0N0tac2NKLXdGNzQtRldCR3llV212MnRuVjFKQlpURHA0ZGE2ZlJWUjViVXVoUHo4UjFNMFVZaDY1dXNFTHU1a2NhdHFhbWVKR0Z4a0hvTlFPYzNNcHlyd0ZuQ2xsY2hxWEJYM0FkRGFaQk03NERma1I0aURmclpRNTEzMDRQc2xFNkHSAesBQVVfeXFMTVpYbFlrYnYyZ0w4UUtwRzBoUUx0Vm9LOU9fYzYxNmw2RlRKcjZ6aFBlRlFqS2Y5MlBVUnpWVjVZaHFlWnlMWUc3QVp2STFGS3BmWjRlcU1pU2dWMGlXaUpqM0doZV96bEd2aUs1RlUyTk9NLVhzMFRHNmNfVURFbmxiOFpVRXAzWmNqMzE1c05yb3FISXgxcDhsSnlCYW9RMjdIS0FQTk1Ea3czanMxNXlWQlV4UzUzQUpaMWdiMUkxODVodVlsa2dNeV95OV85TTcySm5qUTU2d1V2dlFickZCb2s2TmhQeXdUNA?oc=5",
+      "fecha": "2026-11-18T21:16:53.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rock al Río convocó a más de 15 000 personas en Rionegro",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCV0lmNlVoSHdBZF9Bb052SEZRVEFYQ3lfN3BlVEhxV293S3NqYkNvNk5FV2JudUQ0UWgwcUFNVVdQTC0tTExaa1lfS09NTVJJdFlLVDJIYWV6SE5sX3QwQ09WOXBndF9zS1hWYTRZQUM1TWt5MnNz?oc=5",
+      "fecha": "2026-11-18T21:11:37.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Gaula Militar Oriente refuerza prevención de extorsión en centros comerciales de Rionegro",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelNXSDhJZkFQdkJqUVRwTzJST1VITk1fNGE2eGVTNEFsNFREUkZLOFppNWt2Z0NpX3JBbmhSZ2JJQU1uVnhTdnUxZU5wdVE0SlM1dlR3eWRjTm41c1EyTGhGY3dNVWE1Z0EyTGdyMzAxZl9Gd21qemVfOUM1Y1pBZUFibw?oc=5",
+      "fecha": "2026-11-18T17:55:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral tendrá racionamiento de agua para afrontar los efectos de El Niño: horarios y sectores afectados",
+      "medio": "Teleantioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSFc2SjJVNVNPZE04czhJMXJpeHFGdUYyQm9pZGFMOFdUeTZjSGZ5U1NlNXJ4VWZ2VmVwSzhvUXg1UmVMQWtJZmZBS082RDN1RlZfclZ5ekZXRzRrMWpkQXRfbUprT2JKQ2xMRjhfN0F1YXh6d1VSVlNONS1uVUR6U25DakJXWkRGUXlQY19ZSEh2OGZoMW92bHlxRkJsc0xRZk1rRHlyNkdvdmxiZlpzUlBTZ2xIX3dkYVpKb0ZfNXRhVXFsTnJTTjNFc2dGVzlWTnVuMzZTX1BmUm0tNXFGTVZRV3dJT18tZ3pqV3VySXBqMlnSAf8BQVVfeXFMTVVFd1BjWG1Od0hxZm9pZDRaTmNGMzFNX0RlQmh3dllLSDcxRHNyVGdaQlpMcHNLNG04QnNscVVkUGVqUXh4dGpVRzJ1YzBuaHZXbENIQy1wNkxHSHQzY1h6T0dUTGV2S2ZNX1dYV0FFZVBkVWJzVldrdFR2SllHa1BBdjJSWHhaV3VSbndZMGc0VmVGeFNYWkdRVEZNblVzQU1FQ3VjcGZjWW1yeFVMc043c0hSZnpMa3RKaFcwU05CSVpHaHlPeGtIZ0kwUDJEY1plRXlfVmdieHdlLW5zUTFNcEdIRFh6Skhpc3U5TjdfNmxSZXI0WEdwSkJuLVJr?oc=5",
+      "fecha": "2026-11-18T17:47:11.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Víctor Manuel, reportado como desaparecido en Sonsón, fue hallado sin vida en El Carmen de Viboral",
+      "medio": "Minuto30",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmhMaE1jb096SU5jSzBKNzltRlJqNGppMC10eGJMUk56X3ZtQ0U4N2xydEdwcGxSM3dWekRIMW9qT3FpSDZjTnVoNkxkZlYxWFFIUWpwd3h6UThnY2swSlVJX0FoaGRYNGdCOURpWlRPUmcyTEs0Y2ktaUFwSTFnZWlIYlJWMXBwWkhIaV9JV1VPOGNqR3VRb18zOVhJM0VSVWFRRm80dHNVSG80X0VFcmtOLTZFN1pqb1N3LTBrTFZKS09vN1puN21B?oc=5",
+      "fecha": "2026-11-17T17:18:35.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Independiente Barranquilla, a la final con triunfo por goleada sobre El Carmen de Viboral",
+      "medio": "Zona Cero",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORU9US3IyMmhDNWZOSzdqSzFhQzRiUEdIT1VxV2YySnd2bGRudFJvdGpwVXdsNm11alpGS0pZWHlSbzhFdG44WWx4US04MmVHcUN6Y0hxbDloUWR1S1docFJzd2U1UC1rZGNBcV91dGREYlEtX0tDWVV2VGY0OWF6dldJQTViYmRWcWVvRm5OTVB6U1d1cVFDVVJVYkl5N0tVYlVaVUpLUFJQb0x6cnA0RVdiRnMxMmc?oc=5",
+      "fecha": "2026-11-17T17:11:43.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Cornare reunió a 87 niños y jóvenes en la final del Festival de la Cultura Ambiental en Rionegro",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNWRZNk9qTUVFQjg4WGdtWEtlVDRiRkYxU3EwM242ZmFxRTRVRnVDT2ZzWmFOZUMySXdMdVZ2Q2lrX20zeEFiVnZhYVVWQXNVRF81T1ZrRmdqTzgxdC1lbHExOUp1Vk0wajZEQmo5a09YSVh6NVRTd1JQMmo3MjduYkF5TEk2TERXd01CcllEYXBXTUh2SGVBcG9DdTJTODg0YkctOFZFWGxTZWptaW1EYmJaTFJPZUNWWDdndEdpUGN0b2k4MDlXeTRqQ01FeTVFOXotRDlHS1djd0lNYVdEOHhOZXpiTzRERGVHdE93aFZyekcxZF93?oc=5",
+      "fecha": "2026-11-16T20:17:10.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral busca ampliar la presencia policial en su zona rural con nueva infraestructura en La Chapa",
+      "medio": "Orientese co",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUzFpWE0xQks3T2VyVjlLZ2VzZS14OFY0ZlBsX2tBMlpmQXktRmIwT2YtaGs5TTBvRkMzX2otZWpObG91a19EV2Q4ZEVucmxvVW5Yb1lRTE5VeWdXcEh1ejQzRm1ONUl6aml6bmFKVUZJNmxNVW9PMWlYZDA2VzJubzd2d29tQWVncWJtdU9PMzg1ejlRS21qQmlycWRWZDY5YzJPUzlCdWtzOFpIR3gwWm1hd1R3MkpTZDlKbmJFaU4xUlpmblhSd0V0a0NSQQ?oc=5",
+      "fecha": "2026-11-15T18:12:53.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "La violencia no da tregua en El Carmen de Viboral: otro homicidio revive las denuncias de CORPADES",
+      "medio": "Análisis Urbano",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3MtVExnWm5pcTgxempBbjhIQXBuZ2pERlBrTW1lelcxWjdCY00yYlp5VE40U1R5VDZBb1dwdnQyOWVlOVNMZjZ5S0FIX1BYYmlfc0Fid0J4U1Y4S3VhcGtKbHhSbG00S0JSTWZjeGZobVRrMGpJcHIzSjNSRDhOeWdNNEg3SWRPYnUzLS1IZFJYelphV0VuTlhRY3MyVWpfUWFHVEMxN1Mtelk0UEt5ellKdzNaZG9lbUVleTFvNE1KdjNxRnJIMno3aUg?oc=5",
+      "fecha": "2026-11-14T23:23:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Menos vehículos y más alternativas: Rionegro se prepara para una nueva jornada pedagógica",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdThfMjJhRG1OZlVwZ0JTcWU0NlVMVUZwSHZNNlh2U3R4SDVQRzEzVkNIMi1kUjJOc0M4NExHRFhuOHdTU2huczNJX2dLX2tLcnJia05fVVF4MzdmNWFJeFhvb3ZHVmR3YXktMmh2ZGdGNVg4bk5nVERUdlUtcVhPXzVpM0ZpeDJZZDl3UGhRMTU3Q0p1ZlNyZEYwNHREUmVYSFBTTkNJNWNhZmRSWHZpRktETXkxclpKamhLOTNXaWt6TW1YdkEzdWcyWVdwdw?oc=5",
+      "fecha": "2026-11-14T20:55:53.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro promueve la cultura ciudadana y la seguridad vial",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWxOTWZHNG5BclhPUjRQWkpUTVlmOGF6WGNTbVBEelpUdldFbmk4alFTdDNaNFlLeEY2X0ZfckxUeUtZUmdqSmRSbVo5V2ZSMmZQb2Fvdk5pSVQ5Tnhha1VjNVNHS3NZQ0FDbENockozNklvRkswbFMxTmdQZVpoOWlsaWpUdVUzd0ZJWHl3YW53Qi11cHpDcVJ6WDZDWTZtOXlVcWFEbGQ4dGV5MVMwU2lxemdoRGN0THc?oc=5",
+      "fecha": "2026-11-14T14:42:46.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "La Chapa tendrá nueva Subestación de Policía para fortalecer la seguridad en El Carmen de Viboral",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZHFGX3I1aEljVWJhaHlBdE9YeGtpbklKa3UwN09KaF9uYXZCNGlQWkU5OEdFN2lDbVV2N0wyek1mc2RZVHoycld3WDFGOEh5ZDRoeU9Ec001M1d1N1ZneVkwdVkydzQ2dlBHSV9wUWxhdDRkX2k3bFNnalRGVzJlcXNJZUZVS2xLWU9XcDhoeWlPVFNJa2UtSHVoTnQyc0NxdEpjUHZZZmxxYVRYUnVhdmlobnJqaG43YnZwOHNycV9qOHIxRkZYZ3l0a3RRVDR5ampkMmRBNmQ0STl3ZmdjNXV3?oc=5",
+      "fecha": "2026-11-13T17:51:58.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Avanza construcción de la Subestación de Policía de La Chapa, en El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkFJN0ttbGxhUC02R2RDUC1kSU01OWYwdUJzOURFMVBZTHdWOHRnSk02SDFRLVNrcXZoenpCRUJRazU3a1FmRF9GaE1aZFh1bEpuVEliUl8yS2hXZ0M2QnotNTJhRnFIMmhJU1hxN280OF8wblBzTHhUaXNwVmVGNUFLT0hOM0NEMzBsTE9FRHdTcWtzUFlvU0NWWkhERFhIcDAwc0dadEo0NW9lQUdneUI3MDNKVjVn?oc=5",
+      "fecha": "2026-11-13T13:22:04.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral construye una nueva Subestación de Policía para el sector rural",
+      "medio": "Entre Ceja y Ceja",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWxaYXBWTUhyWUNLdjRWQnJ3RXlLcjRFV0Y2YnRjT0RUNmRRdXVXcHVXbzNKdkQ5aHVGdkJKc0FxOVlRcVA4dU5iQWFYaGpkR0FETFRZMVIwM00wYzR2WjJiQXBsM2dlWnpoNmNUR1lTVm14ZXpnU0E2N20tNDlLMnZsaTNLVTFBWVBzbUUzRC03bzJ2LTZOQWQ1OENMRFViOE1RckxhbmxzU0JYaDlYZE44ZE1ibVE4b3dGQ3Zoc3Y3SEV0NUpfVnFuVmE?oc=5",
+      "fecha": "2026-11-13T00:19:34.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Tras años de espera y con apoyo del gobernador, operan de cataratas a Daniela Rodríguez, de El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnRub0dyNkgxUlBCdWcwNHdUWTRrUXhrX1o2d21FSHlGWmE3NWNwWFU2RlB2emcyZC11TVNjSGx3ZzBKaC1yR2hqRTVDZkkzRW5oem9PNDJsOFhiOUtmWVRKc1JNX0tzVFgtOHNjQ09pdDBLNmt2RlJyVEY1ZXhGQW84ZEQ?oc=5",
+      "fecha": "2026-11-10T22:22:31.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Incendio de cobertura vegetal afecta cerca de dos hectáreas en Rionegro",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0t2cHlOZHFzUHVYU0JOMmxabU1kajNXUkl4bzNHeG5OQk4zSHRrdUJObksxMFJpRHhselhxOURiS0pLSFJMczZwWFZFX1JBWFNuc09TQzZMTW1kV0UxV2N2Z3hyeGpsV1k2aDU0Wk1Qc18tVVJhdU1DeF94Y2YtTjFCZUlzTklhY2FlNFJMSGROVUdCbTdBS0VDa0JQX2lSNFdkX0NJclZOeVg4dlJOSWRpR3k?oc=5",
+      "fecha": "2026-11-10T21:47:13.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Cierre vial total en el sector Alto Bonito de Rionegro, hoy lunes 9 de noviembre",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRnZDemR3TDZyV3dZcWZlbkVTVnVTLVNScnVhaERtU0J3emtXMEhXSDBYbk9hR0lpU0o1aUhCWDljR1F6ODE3RmkzYVZfRGp3b2E3UVJYNE9CZk9MOHpucGdsWlhqQkozV0pjb1BKU3dxc3djZnJGblNLeXBUeFR6N0Fvbl84SXdDOTB1Sl92Unk3RDUyVU9YYzZrTWw1djVQeFpPcXhla0dqMzFUdHlleWd0SEtyT091SUdaRFpwNk9FekJYWmsyTHlsd192ajV5N1pBOE9n?oc=5",
+      "fecha": "2026-11-09T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro, Medellín, Envigado y Gobernación de Antioquia realizaron control vial conjunto en el corredor de Las Palmas",
+      "medio": "Alcaldía de Rionegro",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT3JpSnkyc192ZkVtcEg1andaMllVcVV5Vktfdm5kdWNGQ000OE5rdk1lbXJ6ZDdWS2VNYUJ5X1JDX1FaTkU2RDF0akJSaDEyeUFRRnJYMFE3WmVBRi12TU9YS2d1UGVneWtzQ29YLUhVUE16dW5DNnR5ZTBuZ0tfaWZOd3BhczJDQ0Q2OWxpVnh3d2VuUzVwOGNKSXpROFQ2anpxQVFFT2ViYXpUVEo5OGNCRkszLVRldmlXY2U3ZmJ2VHZzUlB4aUxyOUNNdE5XT0hoWVdZRzNlckVsV21QZVhYMDhBaFNXeDZMci1CZFI?oc=5",
+      "fecha": "2026-11-09T05:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Asesinaron a un hombre en un establecimiento comercial de El Carmen de Viboral",
+      "medio": "Hora 13 Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JU2lYY2IwSi13dEdETzJBVm1leW02ZXZqaHdnN0RQZkh1RGprZFpNUDZIbGRDMFhIbEkwQUgzRE1GNk5HVS01YmplTndFOEZlbkFzX1d4OWwzdTlfN2Z6MmtCZTl5bm5QclNBQ20xTkdWc2d1N01TcEM3aUNoV1E?oc=5",
+      "fecha": "2026-11-08T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Ataque armado en Marinilla dejó tres personas heridas; Alcaldía rechazó lo sucedido",
+      "medio": "Primero Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFcxZnc0c1RoeFk3OGR0Qm5ycHBMVXQ3dWV0d2RuUUJmTzlUd0QxWDFYSi1YSVBPUjI5bFRIUk9XTXVUelVicVhud0J6WE9KZHJsOTFtbHBpV1IwMnBhSVI0X2g1Ry1jemlMY3ZmQ1ZHLWJxZ3k0eDRkNkp5SVVKdXpLVkJXei1RWHU0clFGalR6ODRrdFJvY0MtZFJMdDZHbTJsdDFldHQydlc2N1k4?oc=5",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Distrito Vivari invertirá $150.000 millones en clínica oncológica en Rionegro, Antioquia",
+      "medio": "ABC Economía",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONU1vcHhtUlBhbHdiZV8wSHF1Z0Yzci1vZFd3U01oeEo5WjdPMXdHQk9vMjNURklIT2tCTjVibnlJZGNqMFlZVXpMRzRjZUxlRFNPT3NPZlRoYzZuX0trSWl1Rk1DMFVqT0JfbERqVjYyVVZwOXpQRVFWQXlGTUZXc3ZsMndLM3VSMUxGa2lyWTQ3ZUJUa1E?oc=5",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Deportistas de Rionegro representan a Colombia en torneo de fútbol sala Síndrome de Down Costa Rica",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY2Vzbm9vQjBDZ0F4N0tGdVlCLXIwN1N0ZG9NdTgtdUNFVk0xNF90ejhSMGN0dTlHNXdObEJKZ1htQzhZSnNvY1Vnc0lCS0E0OWowaXY0aXF1LXRodzJzVFZhVHVFRWhfRjBEUFVfU2FCc0c5ckRwcEdtOFZlOVpxRWJENUFIbTRuN0s2YXN1Vm1yazdUUUh1TzF2TVZzUHBIUWZYUkpCOFVETDA1bW1WOGhkNXFCbkF0OU1tMzlvNEZld1hEOHJwUlo5ZEpJUEVacFZEdDJqemFVQQ?oc=5",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "En El Carmen de Viboral, habitantes ya disfrutan de la reducción de tarifas de aseo",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ3JUY3A4Tlg4ZGYtLVlnVjB1RF9ONVNaTUZ4UW5obnhDd2xIUWtQR19IeDE2YXQxYTRNbDVyQkhYMEE2eXNic0VYZGpSV0RObVNlMW1lS1JSOXplYVpBdUsxZUxTVy1KSVlQbXgyLUJlZ2xoX2tNVzlhSGEteHBzTVAtd21qNW51azA3Y3NIeDNVckxYSF9tOGg1OXY5cDdCazBxd3ZZdDVhaDNURUlMRkJ2cTBiNHhYMlJzbHRWalBncXNNdVBVR0lLQWxWQQ?oc=5",
+      "fecha": "2026-11-06T01:02:55.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral se viste de flores este 6 y 7 de noviembre",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4za0dsNDd4NjlJd09Cc1hoMXVCRWtwZlY4V195OVdHbktmVkFUTVZGOVNzRWYzLXlhcVhUaUdwMjFoaDFZWlNmaU1pZU1FeVA5a3FUTDZVTEx0U2dsT3hXdnhrb1B6VmZwRHFMeVh4NVJENWtDMHo5cg?oc=5",
+      "fecha": "2026-11-05T15:53:58.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral se viste de flores este 6 y 7 de noviembre: un homenaje al campo y a la floricultura local",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdFgtRHkwcGl3eHRTUWZXLTkxcnY2UVR6cm8tLW95SWdLSWJ6UUpmUG42c0RtMHRNUkxtOTBFN1NDSHV1WVBUNFVVWWtiUFczeFNjZjV0SkdvRTRBT1lYemFfa3hxcnhaOW5UTVlRSmhtdW1sUDdDLXp0ekVzdmE5MDNXRjYyeVhqRmh6N2xYcEUwc25MTkp5czlCRl9rdWd2QXgyVzRaSmtQQ3daOEpLMnp5dHgtZDBlOW9uR2ltNHlqSF9yNVZ2ekxDS0p4YlNxRmVWVFRfalBtX0pQUUtNRmhtSkxXQjBVM2l6aDBEQjNfbzhVcEJqRUxYYTFpWXpLTlQ1Skx6Q18yRnh2RC1Z?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral se viste de flores: el municipio rendirá homenaje a los floricultores y al campo",
+      "medio": "DiariOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVFYZTRSMlU4bzVTV3doTGRSa2lCdWlxQ1p3andsa3I3UTdoajRiSEp5UWFyNWIybi1UT29WVUJxWHAxZEdtQ0tnVVhxZmJpVmZtRnV1R2ZxV2FTdFBGWDVLaTNTS0xTcnQ0cXA0aDJyVkFnWTQ2TW1qb3o1aHgzTEJnQ3QtNGFw?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral promocionó su oferta turística y cultural en Colombia Travel Expo 2026",
+      "medio": "Primero Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUNmQXJMZlJKYUhkRks4dkxWUC00ZDVrbkV2ZkVzM3NxTk1zNi1kZ19BZE13dVpuN3VxQVg2clYycGJNcmxCTW5aQmg3UEx5clFmTjgyRE9OUmRuMDRocjlUQ0FsYV9RZVVNUGJlRWUwSUp4dDRkejBVc0pFVnEzNHVWaG5iS2d4VGhKa2Zaa1o5ZGtRYzJueFFCZjVJQ3FMV0xkUGxzME5EV3BRVjI1SlRvRk5KVU9DOTQ4?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rescataron a dos menores de edad que permanecían en cautiverio en Rionegro, Antioquia",
+      "medio": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3NySHJOLXdpRzJZYUJZendsUkV4aXQ2bDJWTUlXb0JHTllZMTIxd05PQm16d21jR2cwVFZob20zMlZNaWJlajdldVVxNlZHa1lwemxNaklmWG9qalVIWDJkVllxcTR0dElzekJGWlc0NlVqb2dMWHJTcW5ONm1QM3VUTGUtQmZaRVVDdXBQRGgzME9UYUFYOE9ScHpwZ2FkLVhDU0xtdTg0TWRWNVFIbGpHX3N5UE9sejFV0gHPAUFVX3lxTE5UcmZhNFJ5X1J5aTNfRE5IVVVCXzZBY1NVMzNJMjl6UkRreW5sZktGUEFDRlI1UElFQmtYaXRqOVo0U2hjLUNmOUgtVDFvdGhqNllybTh0MVVTNWtxam1ZVnc3R3JsNjR1R2NlcVY3RHpOOElHZzNUd2p6eEVCaVg0TmRHc0kyQWx2cW1peVcxZllTS3laZnBBb3dvZ2NIdkhfOEdua1d4U3R5WXhnU0lqV2dxMkd4NDFJQ0pTZ0RlQURYQ25BNjFmME1RLVNLVQ?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral llevó su tradición ceramista y sus atractivos naturales a Colombia Travel Expo",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWmJXQnVfT1dwbXZUSWNBVmw4Z0U0TFJlSjVlMDdXY2tRaVNEd1loZS1leEpXNi1EbG43ZTdvLVRWckM1MHF0aHFuX3pQLVZ6Ulg3SDBndENMWWpKcFZTZ0FOTlpad0h6dnpFb1lzV2dyYlk4YlhKbHlDdWFVUloxRDEyelJRbmZWclZxVXhUVm1NdnkwV1VMelBsZ0RtMXFPeHEtVWRIYjZ1ZjYyNC1CZ2ZFZDlzSHd5QkRqOElBa091ZHJjYUNVTTliQ1Fra2ZseDVGUTFyQUc?oc=5",
+      "fecha": "2026-11-05T01:24:50.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Liberaron a dos menores secuestrados y capturaron a dos presuntos integrantes del Clan del Golfo en Rionegro, Antioquia",
+      "medio": "Infobae",
+      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLXp1VTluMVAwU2VDVmh2bk9LRnVvTUhqemFDWGZtWUJDbG44bEVYclpKQkZOTlZBNThpRjI1TmdtOXd3TU1sSEY4UGN1b2k5Tjl5S2RLSnpxNUxuOU5nMzhYVW5FOTZ4NVd0TVktU0dDakxtRWY0M3U1RzBIV1oyd2dudi1la1dVNFNsSWxDT1dVM3pmLWxlU1plYUE4MUFuVW0tREM2Rm9PS2xnektRQTQtNGpaT0U5VjJMQmdabVRRQUdvbjVkS2xJdy1KN2NfTDVmRTBScDRnNmJ6R0hTTmplcXFSaEh5cGdydnNUSjFVcDJXQ3fSAZACQVVfeXFMTXlaU3g4QjRQcTA5VEZoQjZnUWpMalR3RDNrcDJ5OWd0bzhNN3pfUjN5MUpqN2JWSXdiaktvMzJJeUpjWGpiR091N2lRZVNuX09wRDBCelJGUFUyNFVjTndZam1yVVViblhyV3FKbV83U1hfdk1DbzVmNFJnZGZHVlJVX0Vzc2haUmNnZGF6WF93ZDlPUHU3V3VjT0VIOWd3Ul9oOXVlVzk4WUR1d3JQU3RkM3Vyc0hiYjlUSDVBRU5iQUk3UFM2czhfS284b2RKSTFILVpDQS05dWpITzgybE9pNzFRWGdTTjFBMFpCQWRlcVBUZjNmX0JEa0RfZ1Bjc2tlQzUxemlRbUhZUXF3bmE?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Así fue el operativo que liberó a dos menores en Rionegro",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94UEJGaGZfRi1TV0NHdU9nSDU1YmUwS05zNTNic1BvMGh3TDA3NDRYWHpGR1FoaUR6YkJFNHRzSkJEaHpDVWtSY2wzNV9VQkZZZmpBNnU3djNwVkNBVUsxWU56MTJoT2EybXFleng0LUdWUS05YWo4?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral expuso su riqueza cultural y natural en Colombia Travel Expo 2026 en Medellín",
+      "medio": "DiariOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlRXeXhMbjhFMi03UGtyd3lFcFN2SXpweE93b3JoS1ZJeXlIZnJRb3JfU195WTdNYTd6RktIbXZBaWNmaVlUNC1BZTF3bTRvelVQUW85UjRHTUhKZGVGMEZJbXdvbmdfS2pmLXBmX3FWcXUzZ3o0eDRUdThjUVNBVGhwOHNXWmlPQXVOUWhR?oc=5",
+      "fecha": "2026-11-04T00:32:37.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral promocionó su oferta turística en Colombia Travel Expo 2026",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzBDZU50bS1sOUs2SVJTOTNTZFliU1RKUmVBa1h3Z1MyYUFaM1hzLWN2aUdrNmx4bVJ1RDI0NHlDeUk3TmpHNDQ3bVk2VUFMRHZIelVJM0lvczBOTzJYS1V1cVhqNFZ5QWdjNHhQV056a0g4X1R3UkxsaloxLWJFc0lMZFpuQmdIdXpvZEpFc1l2Tmc?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Reconocido comerciante de El Carmen de Viboral fue asesinado en la vereda La Sonadora",
+      "medio": "DiariOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEc4cWtCaDBSTXdOb0xNVU1aakNxNzhBUVp5RHZBbVZtZHJ1WUdCTW9vVm1LSjlVSXZpcXdZVElwYjd3c0xCNFN5MTRDdWJQZXBDNHNJeFd6QmFwQ3ZQZkF0cjZZV292cFZGQ1JSb1MxcF9DeUNPZFBaRGNvaFVqdDlGbEZNOWc?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Advierten sobre posible escalada de violencia criminal en Rionegro, Oriente antioqueño, por disputa de territorios | El Colombiano",
+      "medio": "El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0VoTC1DRjJDc2tVU1ZrTFNsQTduR2NWZnpfV1lZZEZ6RTV6Nkszb0d6YmZwQ2pJTmRTUTZWd0RlVGRpTHZKa1AyalhScUdRalg5MVFvYi1aV3d5cEFlSkJ0WmFaVkJHVC03MmhJeUNoSkJmODZNTVJ2Q2Z1c1RwR2FjemF1SlBNZlRSd3haUnphd2FsTEJ6UNIBngFBVV95cUxNT1h6bzR3clFHRWQyZ3BSc2ZvWXR1c1Y5WGhkektUY2FtbFVqTkU1WkQ5cEphU3lOek9ZQ3Y0aGdWVHBlU0RBZTB4UzU0dXlQZTYzVUY2dVFtVHFwWFp1OE05NTBmR0s3czZsMjU1ai1LcF9BaXJobkpOemFuOVBnS3B0eDNNUVZqVmVDMnZOZkw3bUI3aFZuNENkQ2JuZw?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Amanecer de Fe 2026 saldrá de nueve parroquias de Rionegro",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLRUQwQzhhYWVjQ2NOSDg0Q1JfTkE4c0FJc1lST0ZBVGh2T2RvVkpqWVcwaGVHLU93ODhoQVB4T3NmLS14UURnRWtaTXBNS1d0WnQ4MnpLVmZ1bU9BMVNYY19qMWdndGFrNzM0a3h3?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Buscan a joven de El Carmen de Viboral desaparecido en un río en Puerto Triunfo",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHEwdFZhQkw5OV9DZ3gwdEZKYVpIb3R4Vi1PWDgyZzVTbFFCRGJnTWtKU05ETXUwSG9FTnZ2bTg1SmZuNWMzdzhMNk9pZkVLTlhES1VwdVpBVkNqVkpyU0FGSWR4UWdYUkdfeXJBaTRXZHpWVG51czdmYmVUeS1LQWJjTVlUQVc1dHBCcGZZTQ?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Hallan el cuerpo de Mateo Valencia, joven de El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakVtUG1SVi1naHlSMnRKZWZ0SXBIV29HOG5Na2pxejNwcldxVThFbjByZ1Z4OW1mZHBJdWxGRXRoTFlGOHFTVFpoLWRxdDdrUW9JQVVwOVRKd1AzVXpibEkxa1JCZERuUUlFUHROV2w3TmN3d0dpN2loYkZqUjR3UG04LWhaTmItX3oxdnNn?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Familia de Daniela Rodríguez, de El Carmen de Viboral, apela al apoyo del gobernador o el presidente para una cirugía de urgencia",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrdEdxQ3h0SlhiSEF3d1JRUXlWZG5GT1VTNFpDVUYzMkVfMU9VU3pOSWdBV0toSWhLR2Jsc0dJbGx1OTAwa1Zfc2h6SFJpUUZCb2ZTenZBalhyUnRpMGFLQzF6QnhKNUU4aEtHb3JIU2tvdTdfaExwdTlCRQ?oc=5",
+      "fecha": "2026-11-01T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Gobernador lanzó Viva Mi Techo en El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DWF8tbjFQNlMxQ2xjVExoa2o1Y042cDAtTjRPMkZ5OGtlaHhWa085d1hCR01mMnJUejNISWRiME9xcEJHc3FSa2VlSlNUSF9PMGQxOGlzYnBBRk4xUFZVQmVyaVpMc09HMFphVFg1Umk2ZGFvR1E?oc=5",
+      "fecha": "2026-10-31T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Desde El Carmen de Viboral, el gobernador Andrés Julián puso en marcha la estrategia Viva Mi Techo y explicó los beneficios del Área Metropolitana del Valle de San Nicolás",
+      "medio": "Gobernación de Antioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQkV0Z05ZX3RkV3RPaTByejllM05YMV9yWEhTbmlWRkZnQUhPV25aU29yWG4tUjZYdnY5VFJ4TTEzWURzS3JyTFVCdmJHdXM2bmlDVnBqMnFIMHoxRUxqOHM3YUZRdzBOTHBZN0ZORGdsLXU5YzI5UlhFS2lqcWtQUnExOFB1VnhxTnlLWDFyVlJKNUxCMzlIZ2hyNXk2ekptMU1KR1MtVVVKS192M2dkeC1JbUR4Q2UwYzBueVdkUzJjamZjYTFxWmx6bldZT0steW1VS2lsU1ExVWl0Z2VSNEpLOXgxVkRlREtLYmJOd0xqaTY0WGkyajd1bkFYNk51WEFtdTBUUjRaZVc1ZG9rd1kzQW5vZ0ZTVVVfYm9nZ0hpaEY5RzU2dHRJRkVfQnJldmlHT2NISkcyUmJXbE5QY2xXOUhaUWcw?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Ejército incautó 40 kilos de cocaína en El Carmen de Viboral",
+      "medio": "Ejército Nacional de Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHFPQms0Qi0zWndCU3E1LUlKYVNYUFZjN08yQzZUa2RlRWVldk56ZkxTSVBFdW5RdzM2QXFkRHVHVnR6dzhERWZwb2FuZDlpSDBGbmxDSmZaN201QWt5dVp0OTJGeVNxRDE1cnJQZEdvbzk1NlRpZkk4djZNRlNCLTkydWxoeUJDVXZmVQ?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Independiente Barranquilla abre en Antioquia las semifinales contra El Carmen de Viboral: el partido ya tiene fecha y hora",
+      "medio": "impactonews.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1lMWk02QXZfZlR4cG9KQXVPQlIzdVQ3dWpDeTE1UGRDekFOaGVVejlfRDY2Y25meEJ2MmNUVGNFX2lJVTM3RXI3VGdVMjFLQlZVSXo3OEQ0VWZEa090cW5BTUZSUVdybFBnU01YZjdaVTVsdWxuUHNYYlRLMUNEUExKVUNpbk9TZVBmbkhaZHh2R2h3NEI0R2NzODBaQmw1ZmtNamt4RzZYYWhvZXVxaGxsa2hfZFBHSDdFY1lFYVdKU2x1bzV4MGlIekdWYW95YmRfMTN2bEhIeTdXT3c?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Bingo Millonario de la Lotería de Medellín llegará este domingo a El Carmen de Viboral",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUE9qcHhWbWk2Y2doQk5xczlTTEdFcXZDVzhvbC1BSzJCZkNuX0taWmhwMGJXNnk0emZnUEtPTUlzNVFMX1VvUjFCR3FqeWNuY0E0b2hpdTFLUG5yVjdYLUxpVmNseEJNYWpBMHhvYkJJcE1ZZVBKVzhtNS1SSjd3YmQzWnpTQkhiNERwWWM5dXBrWXFGTEoxVnBzRmJJdDRhUWRrejFOLXIxQ2ZqUFFXZkxKTGhfVWpZMVJUY1EwSXNtX2lvamdhdEV1OURGakg0emZiUVZ4cw?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro restringe el parrillero en moto y el transporte de escombros durante Halloween",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LUGhMcjFmbGNWcHhOLTZ1N3NiZWtIcXZTVEcwUG96eGtfd25XZkEyWDBTRkhRQ09ZdHN0YTNFWkdSQjhmTlc2V2hHRGV0VXN2NlBUbGc3a3d0bEs5emNxZVVwcGtGVXFlZEtKR2Ntdi1DZVpnbXlEMHBOc08?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Alcaldía de Rionegro explica por qué se están talando árboles en diferentes sectores del municipio",
+      "medio": "Primero Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2hucFE0N1I2Qll0cG41R3RFQ1dWeE5OWDdmSXVONjlzQmdrVHBmQTdRbXMzdUp4bGVCLWdfWTFWMzdER2Vxa29ZMkRaUFd2N3Y5eUxLSVZnV2szNUxkT2hxbDBuVENUREhVbEJ1MXF4Rm84OHl2bXhURjFGREZGQllMTFdUUEwwNEZaMU56RlBNV00xYmdHUGFpVndUZHM4eVRSdDZBM2J6N25BMGU3NnppU1pJOW82ZVRKSUJUdmJfeU4w?oc=5",
+      "fecha": "2026-10-29T22:40:54.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Bingo Millonario de la Lotería de Medellín llega a El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJDcUJ4aXZ1UVdPVXNOVGRpRlRvMnpVR1BfRFphdEhkVk9Gc25rdzV1d1VFbk9maklQZkU1ZlRHRngtOU9iN056UmFJTzlGWjFNUXlzRFplTG1jTDNodGdacFFsNzU2blh5UUd1b1U4VUdvdlJzVlF3?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Incautan 40 kilos de sustancias ilícitas en El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tTjNFU1ZhU0llVHNMSlg0cFRHWGFXemQ2bURPRmtlTmY1VnVnVDZrQUxzV3kwelBkc1NYM2U0Z0hnVUJ0MHlHbUc1ajNfcWM1dTNwX0J1WXNSQVdpSHZsZXNjc18tSDRUbWVtR0RUSmM0V19ldHc?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Capturan a cinco presuntos integrantes de una estructura criminal en Rionegro y El Carmen de Viboral",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXVnaEprZk10b3d5Q1M4RFdLTlVwMEJwWlRyUTRvdXliZGFrVWE3SGVmeUZOeFBQUjJlNlJtRmdGejgzRTdXMDRxZzFndWp3T2pYYkxsU2dZNGM1R1IyZlRWWUdRR29MakE5cmY5SHdvZDBnUlV5OWpKODhKSktYWnlQNFJ6U1gtN2laejRURXRfMlh5VXFKcFViSW00THl1cXN0c3BsNGl2dTdyWGY2MEIzTVlVMDE4WDcxeS15Rl9JM19fTGlkYk1oNms0Yko3TWdWNHpHb2VCdw?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Capturan a cinco presuntos integrantes de El Mesa en Rionegro y El Carmen de Viboral",
+      "medio": "Hora 13 Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xTno0ck5qVFdxYm9zdkRUOW9RWmhTX1RjMnBoRVpCMGNnS0lkbUFGdmp0TFVMbjlVcmRTMkVnV08zT3hZcVFtRl9QMnVwSEY4bWdxR2Z0THZSYkFuNzdQRHBkYzNlRzJsNXZrRnJ5NDBDWklwa3ljQg?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Allanamientos sacuden a El Mesa en Rionegro y El Carmen de Viboral: así fue el operativo",
+      "medio": "Minuto30",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkpmQlhfOG5iOVQ2NFhSNUthM2pBMUNSZkkzNXNPVEV2QXp3RVBacTZ3UFRGVFZoQXJjQm9GNklyWWFsOVZ2VXRTdTQyMExtVUxROUxuSlFHWTJvd2M1QVZhR2t4Q3NIai0yQXdZU3Axb3E1bWJqMmFIdWlySElOVWVBR1JMZw?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Incautan 40 kilos de Clorhidrato cocaína en El Carmen de Viboral",
+      "medio": "Primero Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJ4N1FnTG5uSlBkcTVXUjhQdVNZbUx0TU1Cb0Z4V3lzbTRSOG1aak5VZ0F0am9RelRjOTFQSFR1NVZsN1luS0FXTkduTkpHd1pXQkJHVXg5RGpmbVVLeFBoaTBvMGpDbnFOdWowclVSMTU1XzdSNnl1X0M1QVY4TU4tRFRkYVEtMkVpRGdRZ0hCdFdINVZR?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Concejo de Rionegro aprobó por unanimidad vigencias futuras por $2700 millones para programas sociales, educación y seguridad",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZ2w2S3QxaXVfc3FvdW9qM0NOQi1mZm9NSWZIWlF4LUowSGNvQXllYUxJRnV0SEV4R2lDWnlHWGVwRGEycDRLTHd4bktiVzJPNm5MN2FIclNVT1FRV2RPS1RQRC1mNGlYRGVYU3M1aW9SQ2IxQmtCRG5GTk1vYl8tQWNGTVAtbkd6N0VRcjBaTWkzRzN4WDFuSGY0T1lkSmVTcGRSd0I3TEx3Qlk3ZHdsaFlNMG41WEdnYTI3OWVVSkFuZDVCdjQyb1hQZUtwc05nNGhxeEZKMFREdDZRbi1BdHlYckxEbjI2czRwblFYVk1raDYzRVZ6LQ?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro prohíbe la micromovilidad en tres plazas y parques",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04N1haeWpRcG9wb3I1eWFCMTBnOWg3cTdwSlpSalFwQUJ6VXVWVkpCdG8zQ3R1R0Q5Yng2UVN2aE9xRGlqWWYxVUdmWnVkdEVPRldKMHVXRXp3cGRySTFvZktyNWRXWlV6c3NORVlKb1lGOEcycmRWSUV3Ung?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro es una Arepa regresa este domingo con 16 artesanos en la Plazoleta del Espíritu Santo",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPanpCWjc4U1JqSU9GTGFraVJEb1RseU5SbEJlUm5rNXg4TEg5R3I5Z2t0aWU3VTUzcU5qcjFPN3ZMQTBXc3A5Zk1yZUFhaVlfSkJib29la2VSZUxMR1pHR184T0tlZ2F3TlB4LXpMN0hSTVZyUEZPVGZwNDU2aGJ6djIzLWUtTHFlaERlVVVPRnY5VzFldzdMMnBZV09jdDU4MkZMczJPbWMtZ21qNjdMTFBtbEg2Z2dZVjZGNDV4VklKZjQ4R1BIVmxyWUwzbUZBb2c?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "La Ceja, Rionegro, El Carmen y otros municipios tienen ediles reconocidos por la Gobernación",
+      "medio": "La Prensa Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTJ3R3lseHJEYU9rQTBGakhObkFtbnVZbWh3Z25xVU9nSmJJQkVCTnRPZllpS3MybDhKNzA3YjhRZlJWZ1ZOT1FtX0czR0g0ZWY1RDlrOGJoc3MxWFVhYWpVeWhlTVNqY3ktZV92c1Rqdjd2WjFPdFJrRFdSaG1HU0FwY0ZFRnlfZ3FOZFhpNnF1R0VRVnRKMzFUSzlIbTRYTThEdXpnTTNJSk1ZS0dfaWs5UVdVbEtOVV9VQnI4YmhxOU5KbllCNGc1SUpCQmM?oc=5",
+      "fecha": "2026-10-28T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Rionegro entrega 494 metros de placa huella rural",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbU9nMG1jaGlNbGlrWEprcm1xQVVMR3hvY0lqTnZhVXhINmZ6ZDlfRFMyQV9mUU42VkFmeUxIMmdRX3NJZDQ4b3lZek9mTi1uS3pIcGlHU2hxdGlsN01lZy1pZHVJLWkzTzRsNmY5WDFaOXpNR0tRdEpsSQ?oc=5",
+      "fecha": "2026-10-28T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "‘Kilómetros de Amor’: El Carmen de Viboral tendrá una carrera para disfrutar junto a las mascotas",
+      "medio": "Primero Oriente",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemNDaW80STQyRG5kTWpLN0NFejFrM2xXMm10NEtZU25aUEVUXzFFdFVIclFWMmd2eXZ3ZFNFakdZdExTYzVaV2RWRFJUT0VhcVEyM2NUVjVjWlBNa1llT3M4NW1ldG9DZDdsN2VKZGdJU3ZvT0oxUVpVQ3B3YWN1VGlFMjRMbWhwbmtpeEZMTnQ1Y2VDQkJESWhPTHZfZUhWekdTZHk5c2tTOTJHaEVkQmgyUEY2UUJVS3pQeW9MYw?oc=5",
+      "fecha": "2026-10-27T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Decretan toque de queda en El Carmen de Viboral, Antioquia, tras asesinato de menor de edad",
+      "medio": "Blu Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWkpPWHp2Y2VOdWx5R0d0X080eVdyUzNXaXRKc3E5Mlo2NmNHOEFYWVZjMGNUcEwzVDlkaDVRZWs4d3Zfbi0tdkMwaXRyNVhvcFgtTjlicU9ZRVJQOE44d1RlRk5iX2JFXzRxRWg0YmVzdW5zT0RwWU52WXpOa3NiXzZGWHp3R1hiUWFOLTVEUjZnem5lcEtlQVExQXNfaVk3cXhicHd5SE1wekJGMU4xMGU2WlBWZG5oYzZkS0NxNGVlRlNQRFBKd3hUWnVmVXBvVWpHaNIB4gFBVV95cUxPSXpXeFB1QlBCZDZZVEttaV94WjhRWnJaS1ZCdkRxS3BqeHlqWk11Q3JTNk5aSE5OV043alNSNWdKMExXbVhvVWQtcUhWaF9YbzFpS3RaVC1nUXI3OXNEM25mQVdoMHVMOTFFVGxvcERQQThtdHRHZW5VOTdWTEgydHcySXRCM1F3aGNVTkRRNHVrRDhaRjktbmZXOUE1VTluYXI4cklMSzJ1N0t5U05rVzNjZzdUVmhJTXF2RW9LeUlfN2VNeVN3YW1uMk1uZEI3US04RkNjSDJyVTVIYkR2Yl93?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral, Envigado, Medellín, Carepa, Bello, Caucasia y Rionegro se adjudicaron los títulos de balonmano, ciclismo BMX, fútbol, fútbol de salón, tenis de mesa y tiro con arco",
+      "medio": "Indeportes Antioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSEJSQml1S3hmTFJKQkFORV9HYzhWYnVyRGJ2RjVQQWFjcERJenZ3RVRZMXo4MmNVQ2NyLS16bzdXeDloZlpkVlpJMTZTMVAwLWtsV3Mxb1lHTkFnTUtfZWo5UkdnOHhXU0RNSDFsTEdnUmRSanA0RlZvVkxFZEl1bXFwMWpKSWJMYVRFSGM3UmlzdHhmTmJrUmQ1OG83MUVLTTcwUDRRNnlmNjN4dmgxcjk0djk0b1BpbWNIVm82UC04TVpMV3FyUU8xQWhMNkF1RGE5TV94aktPallyM2x0MC1PNGxqWEgxb2lYX0pEaGFmQWU0VGZoRU1qQXZFZWJQM0dCSFN0c0ozQ1dlOGY1ZGVzcEE5R2hwU0I2Y0RnaTNsZV9hMjByWllGdjFNNzJVVmphRGl6b3A?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral lanza el ‘turismaster’ para recorrerlo",
+      "medio": "Telemedellín",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xNEltaWZqMUNfaVdHTGpmbWc5LURYRlFYRzhuNHB2WUxKZDROSWFFMzZERUR0YTZpemJiU2FEMzdENHExNFVYMjZ1Uy0tQXItQ1hobzZqSEVYX1M1d0tpUlJPdVNHdWk1MEx4Y05CT3hJZEFma1ZsTGpaZw?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Aprehenden en El Carmen de Viboral nueve equinos que deambulaban sin control",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHJNZ2hUOUhPSVVfS2xvZHhvQ0tLSjZNOE5wTGhkeHZxem9CTzZfckNVNlVFaTdHQ0V5TTZtR3A3eWNWeGltZWhBVGl5cy1RUDdLbmVsWi1Ua1hfVno2bHF0VkNOa2g5LS1Zdl92QXBfdWh3cnI5cVVyM0pWVGt5emhB?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Conciliatón 2026 de la Cámara Oriente ofrecerá trámites de conciliación gratuitos en Rionegro",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVkpQakdSTE9OUE1FNmwxRlpscmRaWmtSdnlSYTR6dUgtQmlRcERCVnk4dDUyYnpqOUxHc0xoalF6cEdZX2szQThUU1Y3SWcxTkg1cE40aU1EeUlGc2V1dU1kbUQ5TmZOQWJhdg?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "En El Carmen de Viboral habrá toque de queda para menores de edad hasta el 27 de noviembre: estos son los horarios | El Colombiano",
+      "medio": "El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNldhUmw5RlpkUWlXWFBDVHh6TzJKZ3JzVFF4S0NuMnQ0bnRNeW5tcGdrb2RKUXFDcFpFT29xZndoYU5Kekl5MHg1clFqWGYzWldOczBhaDJCaFp5VjRaOXZxRkUyZllDSUk1N3l6czFtSVBmWUNVZEU0Yk4zbldhTTVpeURJOW5XR3AxdW1vYi1aQXNOVkJVV3JHRVNhX3hHaE93cnpsMTliQ3YwbDZV0gG0AUFVX3lxTE5jZUVpM05fLW9TUkFaOXZGeVRvTExEY25pV0Q0akx1UzNadFBjdVBCc2RhejFIcDhPd2NhZ0gyaXRGUl9HUWpXN1VjWHMxVzVUa2ZiMm9VV05GRWdDYklfYTVOUEcxaFZJZEZ6bk55ZUxJdTBoYmxobDJGRkVtNjdLNEZPdnpVQ3o3WFVIQmtZLTZic3V1REpxSzNaR1pqYUtPSi1mOGtCLVBzNkFmZXRUcjdyUg?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Toque de queda en Carmen de Viboral para protección de la vida de menores de edad, tras varios hechos violentos",
+      "medio": "Revista Semana",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ2pnZi1jN1N6VTlTcWpmeXprZ3Z5QW9sM1NzU2JiVEpTT1NuWmJUTGx4UkdXbGQwc3RtZWpBZmRRbEp4ZGRHTFQwczFqVFc2aGVUenJnUFhwSjFFVFQ3ME5wRDNSQ1lpa0FhRWZXS0NUUEItTXltYlpqb2JNTUJsMS1pSkcxQXRncTZEZjBtX043T3Z6ZEt5MF9ZcDgzejNJenk1Q3I5OU1OSFZBRDJhZ1B4bGlQZ3AzM1d6NGR3S1RGeGhSUXRFcm1CckFNak0xdmJzakhsd29fSENIOHdkUU42eDJJcGYtdW85cm10WVdKSTRLME1GQ05B?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral anunció toque de queda para los menores de edad | Q´HUBO Medellín",
+      "medio": "Qhubo Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3dzel9Sa09UMTZVcmNOUnV6VnNxS1VzdXl4RXk1aTNVOTJER2hUa3VfNkJQME8zTFdaYzRZeTdBanYwMzF2U0N6SkVsZ1dUYWFJQkp4MXNwQlF3eENFTXQ3aE9RUDN2dFhNR0RETFlEMDBKZzZtelZPWnZpeE5hWnhweVU5WHh1NVBKdnZ2ZFFHcmRFckVIdzJaaXpvUGVyRlgwQ1E0NEdDUkx6dHA0UUhsNHBFaF80V1N5djNwSdIBygFBVV95cUxOR0FHMVlZWGJNSDNXdFZscF9mX01lSDZNRmE3SmNIdVowSUp2WjJNcldiQktqX29rMWI4VkJMNnluX1dfanhINEE1anJRTUpTV0NkanI0eGZid1FXR3NlMXpBVjR5aXVHTU1oMU50eDd5eXNiYU5HQkJpZ0hXYU1RSDFEM0VWa1lsam5GQzNiX1FBZTM2Z0JqU09fc1RfdGdGcDR6RkVxby1IVWF0ZlQtRVBMYllZVDJYTUJBVl9mRUNhbUg3ZFVrN1dn?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral establece toque de queda para menores de 18 años",
+      "medio": "Caracol Radio",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTlJVV3ZGQkxxNDN3TWU1QkEtd1VfWTAwRER3SE53Vl9NS1JVeGcyTWs1U1VjcldST2RQNWZhY1l0SkZhLVZFd0p5RnJTZ1Z6akxSVWVZaWlpQUZkWld0cDdjSWozOC1wNmpSTXNCd1JfcFVmOU9QNVlmaVZaNko3RlI2Smo5OWVGZDZwemRBRmdmWUF5TWdtclZwZnNoZFFfV1dLc3VQVdIBuwFBVV95cUxQcmhIakx5MFVJTGVoSlJyMl9OWlRvdmpDQjMyQkpnUkNXcEZxemZVMDBlc1Bwb1J2VDBxV1BIaThKVjFSYkZIeFJaR3VidDU1UGMyQ3I5MHFrNnltX1pqeU5RYUFWZnNwQmd4dDVVb2ZpSVVRMXlIMWhPaUh0Um1iS29UZDF6WGE3WVVPM3loWEdVaHd4dlRpbUcyOUw2YU9zX2ZqZXlZN2RHWnc1UjZZWTg4WFVDWmRqY2lJ?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Así funcionará el toque de queda para menores en El Carmen de Viboral",
+      "medio": "Telemedellín",
+      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWkJ4R0NNWkhPVGZZWmVLZWNUc3o3QXUzLTVtT3VvZEtUeVhQMFZwQXZqbnprdWtTYzZLTmM0cm40LW91bjVsbGhBQ2xWYVd4bGNoR005SVVqVXFVRklsMUp2X09mQnNxcF9pcnMtQjlQNlJDLVE?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Antioquia endureció medidas para proteger a menores: Caramanta y El Carmen de Viboral impusieron toque de queda nocturno",
+      "medio": "IFM Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjc1cm1jdXBrV0hQVElsdFd3b3BQMFd2R3pXQmRBZjhNZThkX2w0Q2tkUE9QNUhqZ2NJTG9aX1pqa3JEVlFJTjV2R3NkWk1VazNwdlRtYjN2NFpUVHkyXzJXc2VmaFE5eTR4OXNob1hHTnBXTk52Ny11SUJPQ0x2eWVSMlBRNHQ1QWZLTXNRN2lNREphWXdUN1ZMOXc5MU80WnJEaVNPRV93T3ViN0Z6VGYtcjdvZw?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Toque de queda para menores en El Carmen de Viboral: estos son los horarios y excepciones",
+      "medio": "Hora 13 Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45SEVnSE52ZUtKNGZabk1GZ2o4OGo4WkVtNGI3MEZMMTg4bDdUckluMGZUcllCS1haRDh1QlRZX2ZfandoelJYckNiSHd2UVBIQl9RWWZUTUE4cTZHelRVSXJsazMxb0RXMU9XeS1n?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Concejos de La Ceja y Rionegro sesionaron sobre retos comunes",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KSDlLYlJzYldIY3NQbW91VkhSRy1HTm5RVzJkbWlwZzEwQTZYWW5JMjczWl9XRUZlUmxLVDVZTUtCZ1pjRlpCT1dlbEdPYVBpbDNVeTVGazJYSEp1NWJyZFlfTkFzcTdka2c?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral será el primero de Colombia en tener TuriMaster: así podrá disfrutarlo",
+      "medio": "Teleantioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdjh1dW9RdFYwN1N2VHY5T1M1Qmx6bFh2TVRXX2w1UFVtdEtUQW1ud3BNZDhHMnJ1Q2dPVEtUTU5sTWc5MHlUZzNxVkx1OHFFRjdjSWZzYWQzZFhVcUFKNkVDVG1JZHV1ZEJReWtpaXdTSllnQ0xKekhNUWwxaXpXODRiY3Z1S1hmOFlUaW1sdWM3aXpneUE2MkcyNVlZOXF0eDF6S0RaNVV2REJSbF9HLUdMMmpvUzZrRndOek05WnpJX2tXQ1NlWVFueGdrajBGbHlzVWpZRkvSAeQBQVVfeXFMUEpYYW9pWjRaTHE3azlwd096eDFlSVNuOGU3Wm9TOE9PX0VYV3pUNzk5bXNzbEczcVlTVVc5bFNaQzY1TjNsNWsySWtGVjZjRksyRlpBUktVa3BGSnpqU0pmc1pndG1WZk1VajNkYVZmUFpweXo3cENOZVZEUWNxOVVOZkc2OEpBVTZ5YXVzVFlLOEdDR0JTc0U2OGZ5aU5xek8wRm9EdWZNdF85alU0anl3ZGMzaEVkN3FvbHB5dVNuSlJFU21RWUJKWkVrYl9EbVFmYTA5Wll3M0ZfVVdOZmdYbU9D?oc=5",
+      "fecha": "2026-10-24T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral anuncia toque de queda para menores de 18 años: conozca cómo funcionará la medida",
+      "medio": "DiariOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hTG1UU0dvSEVldkI0T25tRmtuQlo0dGNmQnBBaVZIdUxXZDRtVUk3UWJ3bWxsWFRtX21YVV9uTHJKY0dLY05kZ1VObzVpYzdPMkpLTGFaRzFUZjEyaXVMREpIY2wyNzBEdG5HVXpEQzR0ZHM?oc=5",
+      "fecha": "2026-10-24T07:00:00.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral tendrá toque de queda para menores de edad hasta noviembre",
+      "medio": "Entre Ceja y Ceja",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2RnRnZJZ0ExRExKNkVjelNfTnoyemxLRWZ6QlliaFMtSk5teE1FN3BKdklXVmFMS0pBSG03cXdqRUNMaVhFNVg4dXFnUjMwWERnb3dDTG9uc2lJSmsySjhMaEFnMDFMa0FNRkFZaEZMZFFPeVdHYkVxMlQ0bDZhSDFUOXpocVZzQ2JUS043dGdERlhOSGg1b1JPaWxlQWc3emtITFVLaXhhVV9EaHh1N09XZjVNaUJEU3hyeUtmNVRwcDRKNWc?oc=5",
+      "fecha": "2026-10-24T07:00:00.000Z",
+      "auto": true
+    }
+  ]
 }
