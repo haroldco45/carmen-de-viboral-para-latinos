@@ -1,7 +1,49 @@
 {
-  "revisado": "2026-11-27T13:38:58.383Z",
-  "actualizado": "2026-11-27T13:38:58.383Z",
+  "revisado": "2026-11-27T20:55:30.875Z",
+  "actualizado": "2026-11-27T20:55:30.875Z",
   "noticias": [
+    {
+      "titulo": "Hospital Regional San Juan de Dios de Rionegro recibe distinción departamental por su excelencia en atención materna",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmd5NHBoakRDYjgzX0lVTndabW1BNkxCN1ozTWhLS1VLRWV0bmR6Rlphdmw1QVN4dlU3Q3BXaVdRRVFXOGpFRjZLUnVobU5yWDRmaWNrN3RZdkxxRnVnT0dGOEVNVEkwbHppUkEzd0QzenV4N1l2RGVwT3hvU1VYUExybEE0dw?oc=5",
+      "fecha": "2026-11-27T16:13:21.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Skate, Punk y solidaridad se unirán en Rionegro con jornada para recolectar juguetes",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBS2tYLU1JZ3c2NmVvbmxhV2ZuUVVmN1RDTnlTdmlZeVhBWDdKUU5STHR4VF93YzJJOGJQWnZIWnlpRGgyaE5xSGR4aW43b3psTG1PU0phZkgzRUhPSVpiNzl0N2pnYWVHcFo3MmhuR2VIVkZCVnVpX3lB?oc=5",
+      "fecha": "2026-11-27T15:45:24.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Área Metropolitana del Valle de San Nicolás: lo que cambiaría en ocho municipios del Oriente antioqueño",
+      "medio": "Teleantioquia",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcXBOSzZOd3lUWTM4Um5XQlFIYWF2U1doZHVKYUV6YTZzTFJFUWdtclJWVVRIY1JfVnN6djJycDB4VlFqQkFQd3Ztbmt2ZHhXSzVlVFhUV3hZSkJ4V3JVZnNudi1yUkZMNkZ2cGEwcm1ETTlCZjltNjk1OGRlSlRITWpHazlKLXdfbTB2eEhaZEE1ZEZHXzlQRTdQSG11amVxUXlDQ2VqODlQSDUybXhzN3VZNDJwY3AzZ3RxSUtUNDBpOW8zVmQ3c3NxT2FGMmNrLUF5U0o1UHhJODEyYVBTd9IB7AFBVV95cUxNeVhXbDFMM2ktUHZFYnBVRmRIT2RtZHJXaUNGWjh1bExzWjhYS0RQMzFad1IxOGI4XzllNFpnSmxBUmx1NDhNTGlIaWZscmN1a05KVnhDX3hqMU42YTl0b3JfYWE4WnRkWWtkTHhJQ3ZQdVljdlpqUjc0RlJrdzkwSG9SWWE0SFFDRUtYU1NFR0NaNDNGdDhPY0ttanNWQkdhLTJMYnRFdllIOXg4bTlkUEdZZDM2X09jTDFVUDV3XzhDU2xxbFhIWnNXZGh3R1RNb2ZSUUpVTm4xM1V0aXdnN05JenVwNmlxWDY1Zg?oc=5",
+      "fecha": "2026-11-27T14:29:05.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "El Carmen de Viboral impulsa el desarrollo del comercio local",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY01xZFZiOXRaVDRFdEZCbGtfendjTl9PZUJjREMyQmR4MTdxb1I0eXJOV0luRDQtQzhjNEU0UTZOWmxNSnlUUng4MkxtVk9yTGRnR0h2d3paS05VNldFNEc2RS1paE9RVGdEY25CNlB4ak95SlVVZ25QdUhfYXRfWnA3V0tCQjJhTWZkQVR2MGtwWW5UMnYwb3dn?oc=5",
+      "fecha": "2026-11-27T14:27:17.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Presupuesto de Rionegro para 2027 supera el billón de pesos",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1h2VkgtTUt4eXFROE9wQW1tN0xKbGlsUnY4bk1ZX1lzMmduZ1p1TXFfTUswcWRCSHpzbVFJYjM1cXBsa3VJOGczZVhIdlJCWmoyZ05MSmwzbk5OMGJXYVZ1ZGhhV0xrZXA4RWVjVXVLSXNOV1dXcmlWTGhPb21mVHNENU9xcDJ6UG5TdEQwNTA2X1o3V2ZadE5SdUwyaEZsdmF3?oc=5",
+      "fecha": "2026-11-27T14:11:19.000Z",
+      "auto": true
+    },
+    {
+      "titulo": "Oriente antioqueño: cuántos votos necesita la consulta?",
+      "medio": "HSB Noticias",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTFUVVF3TFVvY0lyWk1SX0hKR1BwYUZhZDVISWNJemUtb2pXYS10VWhJUnBKNTBsZ25UOTRJRXFXZWdfRm5TTGY2SWROT1RjRTdoU29adlN1RWRpb3ZIQzlXaEhtakdCNkkzeHlVOWxTU1RSTnNRQkV1ZDdrTzhwWkhPTlRMOWcwdEUtYUpFYw?oc=5",
+      "fecha": "2026-11-27T13:08:52.000Z",
+      "auto": true
+    },
     {
       "titulo": "¿Cuántos votos necesita para ser aprobada la consulta por el Área Metropolitana del Oriente antioqueño?",
       "medio": "Revista Semana",
@@ -1008,48 +1050,6 @@
       "medio": "MiOriente",
       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrdEdxQ3h0SlhiSEF3d1JRUXlWZG5GT1VTNFpDVUYzMkVfMU9VU3pOSWdBV0toSWhLR2Jsc0dJbGx1OTAwa1Zfc2h6SFJpUUZCb2ZTenZBalhyUnRpMGFLQzF6QnhKNUU4aEtHb3JIU2tvdTdfaExwdTlCRQ?oc=5",
       "fecha": "2026-11-01T07:00:00.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "AeroMaker Fest 2026 reunió a jóvenes en Rionegro para impulsar la creatividad y la innovación aeroportuaria",
-      "medio": "La Prensa Oriente",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQellQbi1rc0xXQmxISkMzMGNIWVl5ekdhZ0pORTI2TnJOcDVtajhfSzlOMi0tcUlGR0ExdUdNWnZ1VDNGT1A3aU1PajJ1a0VfY1o2RmhKVHRrVDhtX0Z3Z0FBRFlTRjN6dGFYT181RnV6SWYxbUhMR3E2LUgtNTFobTJEOGc5OENEWjFEWUFPZHFFcGtXc2ZaM01ub1NxZWh0UlM5bmFTZWJROGZvLTJyLWQyU3U0SDZsSXYxdFNnT0FQZUN6SnV4ZHBxRTVCejhkT2IxSktMczkwNDRfOGdWOUNDelJDMFozT25fa1FPS2hWZjRWTUpPZlNCcw?oc=5",
-      "fecha": "2026-10-31T23:04:34.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Gobernador lanzó Viva Mi Techo en El Carmen de Viboral",
-      "medio": "MiOriente",
-      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DWF8tbjFQNlMxQ2xjVExoa2o1Y042cDAtTjRPMkZ5OGtlaHhWa085d1hCR01mMnJUejNISWRiME9xcEJHc3FSa2VlSlNUSF9PMGQxOGlzYnBBRk4xUFZVQmVyaVpMc09HMFphVFg1Umk2ZGFvR1E?oc=5",
-      "fecha": "2026-10-31T07:00:00.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Ejército desenterró 40 kilos de cocaína de El Mesa en El Carmen de Viboral",
-      "medio": "IFM Noticias",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTFwbDhhQnd5bVJid1c2bVJqTVdBZ1QwR3pHZGc5bnhDMWZVNV9ib0xUTHdMX1k4TkdCUkEyako5QUYwcGdYT24wVVk1My1mcGN6bkFEVlZIcUNKZ1g3YTEyMHhUTGNBdGMzdEdCMVNzT0NUR2dxTWdzWTFDRnVScDhGcF9FdFBFZjJCVVQ5TmpZcXBtcXJFMmhpVFg5WVYwa1BDcVQyZldxU2xReFVZ?oc=5",
-      "fecha": "2026-10-30T14:22:09.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Rionegro restringe el parrillero en motocicletas y establece otras medidas durante el fin de semana de Halloween",
-      "medio": "Primero Oriente",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjZkLTJveFh3NzdVajQ0eXZhbGh3TXpHYllqMTlqR3NqdkZQdDJUdHJVQ3hPdm5sbnBDaVlXVFFMNnBpRUxZN3A1VGdiMU9vUVhpV003cFFNeUNqQlRFbmt3UVdiMFFlcVQxNUtsMG44aXNqUDFuc0tfUVNvZV9DT3lXNFo4MHR6TG9hWDRjV0tZZ2VtckhuVlMwY2hMTGRPRnlQZDVDdWM2S0FydVN3X2tBNDUzenZoam9xRWxPU1FZNkZSak4zdXRsT1lNdldoRFZDR1J2WQ?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Desde El Carmen de Viboral, el gobernador Andrés Julián puso en marcha la estrategia Viva Mi Techo y explicó los beneficios del Área Metropolitana del Valle de San Nicolás",
-      "medio": "Gobernación de Antioquia",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQkV0Z05ZX3RkV3RPaTByejllM05YMV9yWEhTbmlWRkZnQUhPV25aU29yWG4tUjZYdnY5VFJ4TTEzWURzS3JyTFVCdmJHdXM2bmlDVnBqMnFIMHoxRUxqOHM3YUZRdzBOTHBZN0ZORGdsLXU5YzI5UlhFS2lqcWtQUnExOFB1VnhxTnlLWDFyVlJKNUxCMzlIZ2hyNXk2ekptMU1KR1MtVVVKS192M2dkeC1JbUR4Q2UwYzBueVdkUzJjamZjYTFxWmx6bldZT0steW1VS2lsU1ExVWl0Z2VSNEpLOXgxVkRlREtLYmJOd0xqaTY0WGkyajd1bkFYNk51WEFtdTBUUjRaZVc1ZG9rd1kzQW5vZ0ZTVVVfYm9nZ0hpaEY5RzU2dHRJRkVfQnJldmlHT2NISkcyUmJXbE5QY2xXOUhaUWcw?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Ejército incautó 40 kilos de cocaína en El Carmen de Viboral",
-      "medio": "Ejército Nacional de Colombia",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHFPQms0Qi0zWndCU3E1LUlKYVNYUFZjN08yQzZUa2RlRWVldk56ZkxTSVBFdW5RdzM2QXFkRHVHVnR6dzhERWZwb2FuZDlpSDBGbmxDSmZaN201QWt5dVp0OTJGeVNxRDE1cnJQZEdvbzk1NlRpZkk4djZNRlNCLTkydWxoeUJDVXZmVQ?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
       "auto": true
     }
   ]
