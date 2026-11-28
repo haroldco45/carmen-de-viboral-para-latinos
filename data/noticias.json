@@ -1,7 +1,14 @@
 {
-  "revisado": "2026-11-27T20:55:30.875Z",
-  "actualizado": "2026-11-27T20:55:30.875Z",
+  "revisado": "2026-11-28T04:10:44.413Z",
+  "actualizado": "2026-11-28T04:10:44.413Z",
   "noticias": [
+    {
+      "titulo": "Tránsito de Rionegro incorpora 14 vehículos para reforzar la atención en las vías",
+      "medio": "MiOriente",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFN1V3lrS0Zya2puX0NaX1dPWWNZcUdWQ05uMk5RNEpLd0Vkdks5cHRKZkNlOFctMXZ6ek9RNGZaZ3BYMThsYlo5NVFsbWI2blBienJDT1JuR2otZi15MWd4T2NIN00xTlZYRklLNmZPMDI3eHhQTmhXMUxpWmhTcFNwTXgtUQ?oc=5",
+      "fecha": "2026-11-28T02:01:47.000Z",
+      "auto": true
+    },
     {
       "titulo": "Hospital Regional San Juan de Dios de Rionegro recibe distinción departamental por su excelencia en atención materna",
       "medio": "MiOriente",
@@ -1043,13 +1050,6 @@
       "medio": "MiOriente",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakVtUG1SVi1naHlSMnRKZWZ0SXBIV29HOG5Na2pxejNwcldxVThFbjByZ1Z4OW1mZHBJdWxGRXRoTFlGOHFTVFpoLWRxdDdrUW9JQVVwOVRKd1AzVXpibEkxa1JCZERuUUlFUHROV2w3TmN3d0dpN2loYkZqUjR3UG04LWhaTmItX3oxdnNn?oc=5",
       "fecha": "2026-11-02T08:00:00.000Z",
-      "auto": true
-    },
-    {
-      "titulo": "Familia de Daniela Rodríguez, de El Carmen de Viboral, apela al apoyo del gobernador o el presidente para una cirugía de urgencia",
-      "medio": "MiOriente",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrdEdxQ3h0SlhiSEF3d1JRUXlWZG5GT1VTNFpDVUYzMkVfMU9VU3pOSWdBV0toSWhLR2Jsc0dJbGx1OTAwa1Zfc2h6SFJpUUZCb2ZTenZBalhyUnRpMGFLQzF6QnhKNUU4aEtHb3JIU2tvdTdfaExwdTlCRQ?oc=5",
-      "fecha": "2026-11-01T07:00:00.000Z",
       "auto": true
     }
   ]
